@@ -4,20 +4,23 @@ on:
     branches: [main]
     paths:
       - .github/labels.yml
-  schedule:
-    - cron: "0 3 * * *"
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4.1.1
-      - uses: micnncim/action-label-syncer@v1.3.0
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.ROUTELINKBOT_TOKEN }}
+      - name: Sync labels
+        uses: micnncim/action-label-syncer@v1.3.0
         with:
           manifest: .github/labels.yml
           token: ${{ secrets.ROUTELINKBOT_TOKEN }}
-          prune: false
+          prune: true
           repository: |
             routelink/.github
             routelink/client
