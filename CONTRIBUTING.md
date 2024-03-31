@@ -36,7 +36,7 @@ chore: update .env file up to new variables
 ### <a id="сommit-type"></a>Commit types
 
 #### General
-- `feature` — добавление новой функциональности
+- `feat` — добавление новой функциональности
 - `fix` —  исправление ошибок
 
 #### Additional
