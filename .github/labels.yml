@@ -19,3 +19,21 @@
 - name: "state: need triage"
   description: state need triage
   color: C5DEF5
+- name: P1
+  description: This issue has high priority
+  color: B11D1E
+- name: P2
+  description: This issue has medium priority
+  color: FBCA04
+- name: P3
+  description: This issue has low priority
+  color: 0E8A16
+- name: S1
+  description: Stage 1
+  color: F9D0C4
+- name: S2
+  description: Stage 2
+  color: FEFFA4
+- name: S3
+  description: Stage 3
+  color: BAF8AE
