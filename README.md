@@ -1,6 +1,6 @@
 <div align="center">
 
-# [<img src="src/assets/logo.webp" width="200px" alt="taiga ui logo" width="36px">](https://routelink.ru)
+# [<img src="profile/logo.png" width="200px" alt="routelink logo" width="36px">](https://routelink.ru)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/routelink/client/blob/main/LICENSE)
 [![React](https://img.shields.io/badge/React-blue)](https://github.com/facebook/react)
 [![Material-UI](https://img.shields.io/badge/Material-UI-blue)](https://github.com/mui/material-ui)
@@ -62,7 +62,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/olegnowikow" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -79,7 +79,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/TheKenkei" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -96,7 +96,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/Sableuze" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -113,7 +113,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/JSFSchaikaai" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -132,7 +132,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/alexander-barmin" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -149,7 +149,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/kirill-k939" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -166,7 +166,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/SaintCAF" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
@@ -183,7 +183,7 @@ See our [CONTRIBUTING.md](https://github.com/routelink/.github/blob/main/CONTRIB
                 <a href="https://github.com/alextsiklis" title="Github"
                     ><img
                         width="16"
-                        src="https://raw.githubusercontent.com/MarsiBarsi/readme-icons/main/github.svg"
+                        src="profile/github-mark.svg"
                 /></a>
             </div>
         </td>
